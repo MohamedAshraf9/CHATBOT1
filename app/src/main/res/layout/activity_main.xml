@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/im">
+
+    <!-- RecyclerView to display chat messages -->
+
+    <!-- Layout for user input -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewChat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/layoutInput"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="150dp"
+        android:layout_marginTop="7dp"
+        android:padding="13.00dp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:scrollbars="vertical"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_message" />
+
+    <RelativeLayout
+        android:id="@+id/layoutInput"
+        android:layout_width="395dp"
+        android:layout_height="69dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="16dp"
+        android:background="@color/prim"
+        android:padding="8dp">
+
+        <!-- EditText for user input -->
+        <EditText
+            android:id="@+id/editTextMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toStartOf="@+id/send_btn"
+            android:background="@drawable/rounded_corner"
+            android:hint="@string/type_a_message"
+            android:inputType="text"
+            android:padding="16dp"
+            android:autofillHints="" />
+
+        <!-- Button to send message -->
+        <ImageButton
+            android:id="@id/send_btn"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="10dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="8dp"
+            android:src="@drawable/baseline_send_24"
+            tools:ignore="ImageContrastCheck,SpeakableTextPresentCheck"
+            android:contentDescription="@string/todo" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

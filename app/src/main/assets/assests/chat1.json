@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-respect-366711",
+  "private_key_id": "b38ec31aec5c56561b39bf178e88b992e313d3b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZAvt1HI2H2N+0\nTco0UEatQadEqrtU8BVjNL7AzL/dFIDnGuPjVOO6P5Slub2r4kSTau6lg617FlLY\n4Zu+/lAB0L1t/DoFgCD1KrtHadRebpsas3n0w546HS73x8WEnOAh81NMGUgy50lG\nLrs1IUi3rS65jVBlGa+8tkOGG4YNyKwKsbUnqGFV94jA1sxa2zlYcKpZEb5MV9AJ\nOw4IVsm+P4/VI0R20staJe8UYSeijQKM5O+DF4f6y6LPzH3T4lJdYyilPxPtEOZO\nCbEY65KBHinihTCFpX2CxuexRz/Lny9n9eGMHtI83gN7hxcxr5XrK4ZpEDKgh8fT\nL85YMYQ9AgMBAAECggEABr4JJQAq74kP7jtVKHSZYDcAJOnZtyUHF8Ai8GeMIH4g\nwSK8k4ARho8E0HSpuBuSvjJzfAX6z65dCur7hUludUKl2Ah0SbPLklfDs3ojbymo\nPQH4LIrKsYsy6Io25fdfyVOU3MeTpC07wWf182EiMBQRNbz2aKW4fY2mIcEHfwm/\nNNBQGtIn5JqgviR7ueZdtqYPYi1plviZ6LjbsTzrZXKzrcHMz85SWa+7eZ3YIsFJ\nZ8SJIN9dTtuhysiSKTkbTEfvxH9vvYgYW6pLlldEWXGPjk2f8UIFCGcTOLFjO+dk\n/GetP/+jxd0kGYXI/K5kO8gwEln0n42u6jdl0QYZ8QKBgQD+g7mSW1J0UIEV7GyC\nzaNhFes9Yj9IUHBZYA+xig9BFOoWMwh5fmqCuwq7mLTKohzoy9k4IhJ/lq3BM27f\nHphtvUpCeEw9IbLALYNTb1ezUrgxGnK8/qw+37Aq6gPpa7A9rstqq2U3KR2wC52f\ndTj8tTcUdtSkkYm2V93ONSW5CQKBgQDaRzk7Bo5fAGj5ImvFR/kiipdGVhXmhhht\nlrzhJL+F2WlzHx8PFG118eMAhSAgKJil7qZk1IVwjGYM5GyWn+xkUJEWZmFCgQrO\nYRDtNDWYTtN6x2D6fQZozp5Wt7jb4WpbzHyAmX5wNDhw8PwS8yCs2BwmsasupupP\n8D+ej+TClQKBgB/tLDEkzYITuy2h27bIzu7Vzg2ELoYGuSEtAKr3s5QpaHfibPS4\nm+nMRrtjm4IztcaqE5SMCaABqcgriIPqlZpmfVM7Pe0JNiAPVYL425p+DObz92Kn\n27mDW9j2RAla3d/O9mtqFqdFvBiiTGJ9VOm2XbNueJwwOYMrIILGffXpAoGAShlz\nrD4Fhuq0uB6fR1GvmbJCuHXw6VkMYeeSJzw6aE3uJk6iVJQytJ9w2HRY+5HMgEgL\n5J7gzdxbqHTDCD8yGLvhBSGsUs9Lw9Pf0yauKw5XbI7StTZMPrgluHqWHs7fNFqu\nyVlSOvT/VBf6+tPee87Bf8FAw42WbZy5fDKNDiECgYEAihrtGnJbQpnF7MlxOY6s\nL4AnYwJfW5EPiMTKZ8ELyIGPQYZh0D0RyLv/VMQcjEEK3CwweHD5EoPCA76MiAhn\nIgulo6LzAzM4Yr68SGR6Qt0a5fT0S8fzEeZYfjQoC3CKgaUvWh4Ik4ohTATzvtuE\np7mYcaHpZaWUUWsM9kMD+yM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "android-flow-agent@fleet-respect-366711.iam.gserviceaccount.com",
+  "client_id": "109777558776921896943",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/android-flow-agent%40fleet-respect-366711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

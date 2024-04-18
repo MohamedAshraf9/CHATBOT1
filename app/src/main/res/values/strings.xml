@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CHATBOT</string>
+    <string name="title_activity_register">Register</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Username">Username</string>
+    <string name="profile" />
+    <string name="type_a_message">Type a message</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
